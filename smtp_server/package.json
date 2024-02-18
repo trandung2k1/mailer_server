@@ -1,0 +1,19 @@
+{
+  "name": "smtp_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mailparser": "^3.6.7",
+    "smtp-server": "^3.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

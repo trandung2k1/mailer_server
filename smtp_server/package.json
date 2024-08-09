@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mailparser": "^3.6.7",
-    "smtp-server": "^3.13.2"
+    "mailparser": "^3.7.1",
+    "smtp-server": "^3.13.4"
   },
   "devDependencies": {
-    "nodemon": "^3.0.3"
+    "nodemon": "^3.1.4"
   }
 }
